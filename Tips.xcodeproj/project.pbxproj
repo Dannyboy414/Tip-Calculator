@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		74A5703D1C49D0890010E9E8 /* Tips.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tips.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74A570401C49D0890010E9E8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		74A570421C49D0890010E9E8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		74A570421C49D0890010E9E8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; wrapsLines = 0; };
 		74A570451C49D0890010E9E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		74A570471C49D0890010E9E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74A5704A1C49D0890010E9E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -489,6 +489,7 @@
 				74A570671C49D0890010E9E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		74A570681C49D0890010E9E8 /* Build configuration list for PBXNativeTarget "TipsTests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +498,7 @@
 				74A5706A1C49D0890010E9E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		74A5706B1C49D0890010E9E8 /* Build configuration list for PBXNativeTarget "TipsUITests" */ = {
 			isa = XCConfigurationList;
@@ -505,6 +507,7 @@
 				74A5706D1C49D0890010E9E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
